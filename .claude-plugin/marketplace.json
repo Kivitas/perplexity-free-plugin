@@ -1,0 +1,11 @@
+{
+  "name": "perplexity-free-local",
+  "owner": { "name": "local" },
+  "plugins": [
+    {
+      "name": "perplexity-free",
+      "source": "./",
+      "description": "Free Perplexity search via your logged-in browser session (MCP tool + skill)."
+    }
+  ]
+}

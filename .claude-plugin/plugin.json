@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-free",
+  "version": "1.0.0",
+  "description": "Search Perplexity from Claude Code through your logged-in Perplexity web session (Chrome CDP) — no API credits. Adds a perplexity_search MCP tool and a /perplexity-free:pplx skill.",
+  "license": "MIT",
+  "keywords": ["perplexity", "search", "mcp", "research"]
+}
